@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2015\Projects\SeleniumTest7\SeleniumTest7\bin\Debug\SeleniumTest7.exe.config
+C:\Users\Admin\documents\visual studio 2015\Projects\SeleniumTest7\SeleniumTest7\obj\Debug\SeleniumTest7.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2015\Projects\SeleniumTest7\SeleniumTest7\bin\Debug\SeleniumTest7.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\SeleniumTest7\SeleniumTest7\bin\Debug\SeleniumTest7.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\SeleniumTest7\SeleniumTest7\bin\Debug\nunit.framework.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\SeleniumTest7\SeleniumTest7\bin\Debug\WebDriver.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\SeleniumTest7\SeleniumTest7\bin\Debug\nunit.framework.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\SeleniumTest7\SeleniumTest7\bin\Debug\nunit.framework.xml
+C:\Users\Admin\documents\visual studio 2015\Projects\SeleniumTest7\SeleniumTest7\bin\Debug\WebDriver.xml
+C:\Users\Admin\documents\visual studio 2015\Projects\SeleniumTest7\SeleniumTest7\obj\Debug\SeleniumTest7.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\SeleniumTest7\SeleniumTest7\obj\Debug\SeleniumTest7.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\SeleniumTest7\SeleniumTest7\bin\Debug\WebDriver.Support.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\SeleniumTest7\SeleniumTest7\bin\Debug\WebDriver.Support.xml

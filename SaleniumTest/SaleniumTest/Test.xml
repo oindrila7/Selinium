@@ -1,0 +1,15 @@
+﻿<root>
+	<key name="Username">
+		<Username>Administrator</Username>
+	</key>
+	<key name="Password">
+		<Password>1</Password>
+	</key>
+	<key name="Url">
+		<Url>https://dev.rmrcloud.com/Login</Url>
+	</key>
+	<key name= "BusinessName">
+    <BusinessName>PiisTech</BusinessName>
+	</key>
+	
+</root>
